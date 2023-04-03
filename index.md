@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Sample Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Qlik Sense](/sample_page)
+<img src="images/QlikSense_Sample_Dashboard.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau](/pdf/sample_presentation.pdf)
+<img src="images/Tableau_sample_Dashboard.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Live Deployment & Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
