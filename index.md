@@ -12,8 +12,8 @@
 <img src="images/Tableau_sample_Dashboard.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Power BI](http://example.com/)
+<img src="images/Power BI_Sample Dashboard.gif?raw=true"/>
 
 ---
 
