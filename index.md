@@ -19,10 +19,10 @@
 
 ### Live Deployment & Projects
 
-- [Project - Design and Development of a PFA Executive Management Dashboard (FCMB Pension)]
-- [Project - Design and Development of a PFC Executive Management Dashboard and Portfolio Reporting (ZPC)]
-- [Project - Design and Development of Financial Reports - Trial Balance, SOFP, SOPL (SFH)]
-- [Project - Design and Development of Strategy, Tactical and MPR Reports (CHI)]
+- Project - Design and Development of a PFA Executive Management Dashboard (FCMB Pension)
+- Project - Design and Development of a PFC Executive Management Dashboard and Portfolio Reporting (ZPC)
+- Project - Design and Development of Financial Reports - Trial Balance, SOFP, SOPL (SFH)
+- Project - Design and Development of Strategy, Tactical and MPR Reports (CHI)
 
 ---
 
