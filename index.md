@@ -9,7 +9,7 @@
 
 ---
 [Tableau](/pdf/sample_presentation.pdf)
-<img src="images/Tableau_sample_Dashboard.jpg?raw=true"/>
+<img src="images/Tableau Sample Dashboard.png?raw=true"/>
 
 ---
 [Power BI](http://example.com/)
@@ -19,15 +19,12 @@
 
 ### Live Deployment & Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project - Design and Development of a PFA Executive Management Dashboard (FCMB Pension)]
+- [Project - Design and Development of a PFC Executive Management Dashboard and Portfolio Reporting (ZPC)]
+- [Project - Design and Development of Financial Reports - Trial Balance, SOFP, SOPL (SFH)]
+- [Project - Design and Development of Strategy, Tactical and MPR Reports (CHI)]
 
 ---
-
-
 
 
 ---
