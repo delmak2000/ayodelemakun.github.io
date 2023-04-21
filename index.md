@@ -4,15 +4,15 @@
 
 ### Sample Projects 
 
-Qlik Sense
+#### Qlik Sense
 <img src="images/QlikSense_Sample_Dashboard.jpg?raw=true"/>
 
 ---
-[Tableau](https://public.tableau.com/views/StatesinNigeria/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### [Tableau](https://public.tableau.com/views/StatesinNigeria/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Tableau Sample Dashboard.png?raw=true"/>
 
 ---
-Power BI
+#### Power BI
 <img src="images/Power BI - Sample Dashboard -1.png?raw=true"/>
 
 ---
