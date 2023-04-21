@@ -13,7 +13,7 @@ Tableau
 
 ---
 Power BI
-<img src="images/Power BI_Sample Dashboard.gif?raw=true"/>
+<img src="images/Power BI - Sample Dashboard -1.png?raw=true"/>
 
 ---
 
