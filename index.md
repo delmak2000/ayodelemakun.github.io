@@ -4,7 +4,7 @@
 
 ### Sample Projects 
 
-Qlik Sense
+[Qlik Sense]
 <img src="images/QlikSense_Sample_Dashboard.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@ Qlik Sense
 <img src="images/Tableau Sample Dashboard.png?raw=true"/>
 
 ---
-Power BI
+[Power BI]
 <img src="images/Power BI - Sample Dashboard -1.png?raw=true"/>
 
 ---
