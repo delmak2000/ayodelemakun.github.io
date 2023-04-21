@@ -8,7 +8,7 @@ Qlik Sense
 <img src="images/QlikSense_Sample_Dashboard.jpg?raw=true"/>
 
 ---
-Tableau
+[Tableau](https://public.tableau.com/views/StatesinNigeria/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Tableau Sample Dashboard.png?raw=true"/>
 
 ---
